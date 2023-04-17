@@ -1,0 +1,5 @@
+1. Install Go from source.
+   https://go.dev/doc/install
+2. Go in source folder "\WebRTC\source code"
+   Run terminal and execute "go run ."
+3. Open your browser and go "http://localhost:8888"
